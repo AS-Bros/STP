@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Adding 12
+=======
+Adding Using Feature1
+>>>>>>> feature-1
